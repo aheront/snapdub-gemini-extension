@@ -1,0 +1,11 @@
+{
+  "name": "snapdub",
+  "version": "1.0.0",
+  "description": "Turn long videos into short vertical clips with captions. Paste a YouTube, Twitch, Kick, Rumble or Zoom link and get TikTok, Reels and Shorts clips back.",
+  "mcpServers": {
+    "snapdub": {
+      "httpUrl": "https://snapdub.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

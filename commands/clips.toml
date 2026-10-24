@@ -1,0 +1,5 @@
+description = "Show the finished clips of your latest SnapDub video"
+prompt = """
+Use SnapDub: find my latest video with list_videos (or the one I name: {{args}}), check it with get_video,
+and if it is done show its clips from list_clips as a table with title, virality score, length and link.
+"""

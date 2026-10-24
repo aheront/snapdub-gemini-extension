@@ -1,0 +1,5 @@
+description = "Make vertical clips from a video link with SnapDub"
+prompt = """
+Use the SnapDub create_video tool to make vertical clips with captions from this video: {{args}}
+Confirm the link with me first, because it spends SnapDub credits. Then show the progress and the SnapDub link.
+"""
